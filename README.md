@@ -60,8 +60,6 @@ I enjoy solving real-world problems through clean architecture, efficient APIs, 
 
 # 💻 Tech Stack
 
-## 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -76,8 +74,6 @@ I enjoy solving real-world problems through clean architecture, efficient APIs, 
 
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
