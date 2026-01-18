@@ -1,3 +1,13 @@
+<h1 align="center">👋 Hi there, I'm Prem Kalse</h1>
+
+<p align="center">
+  <b>Full Stack Developer</b> | <b>MERN Stack</b> | <b>Problem Solver</b>
+</p>
+
+<p align="center">
+  Building scalable, secure, and user-centric web applications with clean architecture.
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Integrated+Web+Apps;Problem+Solver+%26+Learner" alt="Typing SVG" />
 </div>
@@ -11,8 +21,6 @@
 ---
 
 # 💫 About Me
-
-## 👋 Hi, I'm Prem Kalse!
 
 I'm a **Full Stack Developer** specializing in the **MERN stack**, focused on building scalable, secure, and user-centric web applications.  
 I enjoy solving real-world problems through clean architecture, efficient APIs, and modern UI experiences.
